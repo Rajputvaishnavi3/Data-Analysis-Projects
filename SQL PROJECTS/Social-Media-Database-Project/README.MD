@@ -11,5 +11,5 @@ The Social Media Analysis project aims to gain comprehensive insights into user 
 
 
 <h3>To see the blog <h3>
-<a>https://medium.com/@vmrajput20/social-media-analysis-with-mysql-6d6e7caafa8e<a>
+<link>https://medium.com/@vmrajput20/social-media-analysis-with-mysql-6d6e7caafa8e</link>
 
