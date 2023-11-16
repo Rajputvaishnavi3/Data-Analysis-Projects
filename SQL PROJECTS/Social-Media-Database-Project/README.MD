@@ -9,7 +9,7 @@ The Social Media Analysis project aims to gain comprehensive insights into user 
 <b>I have performed some basic operation on data  in mysql</b>
 <br></br>
 
-<br></br>
 
 <h3>To see the blog <h3>
+<a>https://medium.com/@vmrajput20/social-media-analysis-with-mysql-6d6e7caafa8e<a>
 
