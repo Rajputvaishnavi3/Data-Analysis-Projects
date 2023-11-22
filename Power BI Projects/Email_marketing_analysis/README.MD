@@ -1,16 +1,7 @@
-# Email Marketing Analysis-Power-BI
-<br>
-<br>
-
-
-
-
-
-
 # Project Title - Email Marketing Analysis
 <br>
 
-
+<br>
 
 # Problem Statement
 
