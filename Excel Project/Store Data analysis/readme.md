@@ -1,3 +1,4 @@
+<H1>Store Data Analysis</H1>
 I’ve created a Store Data Dashboard
 Data Analysis and Visualization practice in MS Excel
 Project Includes
