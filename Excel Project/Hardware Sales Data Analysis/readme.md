@@ -30,6 +30,7 @@ Project Insight:
 - Siddhu is the top performing salesman who sold the highest amount of items.
 - Chandu is the poor performing salesman who sold the lowest amount of items.
 
-Final Conclusion:<br>
+Final Conclusion:
+<br>></br>
 Need to improve the sales of items except the printer in south region.
 Need to communicate with chandu about less sales of item and discuss new strategy to increase the sales.
